@@ -1,0 +1,43 @@
+.container{
+    border: 5px solid black;
+    border-radius: 12px;
+    height: 50%;
+    width: 50%;
+    margin-left: 25%;
+}
+
+body{
+    background-color: darkgray;
+}
+
+h1{
+    text-align: center;
+    font-family:cursive ;
+}
+
+img{
+    margin-left: 14%;
+    margin-top: 18px;
+    height: 500px;
+    width: 500px;
+}
+
+h4 {
+    margin-left: 14%;
+    font-family:serif ;
+}
+
+p{
+    margin-left: 14%;
+}
+
+button{
+    background-color:  darkred;
+    color: white;
+    margin-left: 14%;
+    height: 6%;
+}
+
+#span1{
+    margin-left: 14%;
+}
